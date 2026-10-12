@@ -1,0 +1,14 @@
+This Too Shall Pass — Scott Buckley
+Copyright Scott Buckley, 2021.
+Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+Source: https://www.scottbuckley.com.au/library/this-too-shall-pass/
+License: https://creativecommons.org/licenses/by/4.0/
+Composer website: https://www.scottbuckley.com.au
+
+Changes: MP3 re-encoded to 160 kbps for mobile download size; full composition retained.
+The invitation includes a visible attribution and license link in its footer.
+Keep this attribution when redistributing this project with the track.
+
+our-moment.mp3 is the previous, original synthesized instrumental made for
+this invitation. It is retained as an optional alternative and is not played
+by default. Its source is scripts/create_music.py.
